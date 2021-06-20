@@ -1,0 +1,61 @@
+{
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-10-23 21:47:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-10-23 21:47:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-10-23 21:47:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-10-23 21:47:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-10-23 21:47:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-10-23 21:47:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-10-23 21:47:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-10-23 21:42:32 -0400",
+      "minecraft:forest": "2020-10-23 21:42:37 -0400",
+      "minecraft:mountains": "2020-10-23 21:39:59 -0400",
+      "minecraft:taiga": "2020-10-23 21:40:57 -0400",
+      "minecraft:jungle": "2020-10-23 21:49:18 -0400",
+      "minecraft:beach": "2020-10-23 21:39:51 -0400",
+      "minecraft:river": "2020-10-23 21:40:58 -0400",
+      "minecraft:wooded_mountains": "2020-10-23 21:42:22 -0400",
+      "minecraft:stone_shore": "2020-10-23 21:45:11 -0400",
+      "minecraft:savanna": "2020-10-23 21:49:33 -0400",
+      "minecraft:plains": "2020-10-23 21:39:44 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2580
+}
